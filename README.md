@@ -1,0 +1,1 @@
+# veri_bilimi_101.patika.dev
